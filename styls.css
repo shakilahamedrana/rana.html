@@ -1,0 +1,13 @@
+.a{
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    font-size: 22px;
+    color: black;
+    background-color: aqua;
+}
+.b{
+    font-size: 25px;
+    color: blue;
+    text-align: center;
+}
